@@ -1,0 +1,8 @@
+{
+    "csharp.suppressDotnetInstallWarning": true,
+    "csharp.suppressProjectJsonWarning": true,
+    "csharp.unitTestDebuggingOptions": {
+    
+    },
+    "omnisharp.useGlobalMono": "never"
+}
